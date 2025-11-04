@@ -1,2 +1,2 @@
-# carte-virtuelle-local
+# carte-virtuelle-formateur
 
